@@ -4,6 +4,14 @@
 		"port": 5432,
 		"username": "user",
 		"password": "password",
-		"database_name": "mydatabase"
+		"database_name": "mydatabase",
+		"meta_table":"",
+		"data_table":""
+	},
+	"ftp":{
+		"host": "10.98.126.102",
+		"username": "",
+		"password":"",
+		"directory":""
 	}
 }
